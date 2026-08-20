@@ -1,5 +1,3 @@
-# Marvin Gülhan
-
 ## About Me
 Computer Science M.Sc. student at the **University of Bonn** and Research Assistant at **Fraunhofer FKIE**.
 
