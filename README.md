@@ -1,5 +1,5 @@
 ## About Me
-Computer Science M.Sc. student at the **University of Bonn** and Research Assistant at **Fraunhofer FKIE**.
+CS Master student at the **University of Bonn** and Applied Scientist Intern at **DHL Group**.
 
 ## My Interests
 
